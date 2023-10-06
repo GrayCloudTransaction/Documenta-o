@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2023-10-06T16:08:49.276Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="aS9H4UakQTdS_7tYxv0A" version="22.0.0" type="device">
+  <diagram name="Página-1" id="y-R9RadH2atbJXQr8Aiv">
+    <mxGraphModel dx="1120" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ALRop86QPfrC4zq-vZKm-14" value="Quem?" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ALRop86QPfrC4zq-vZKm-19" value="Rafael Costa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ALRop86QPfrC4zq-vZKm-14" vertex="1">
+          <mxGeometry x="155" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALRop86QPfrC4zq-vZKm-20" value="&quot;Não consigo reduzir os custos de operação do TEF&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ALRop86QPfrC4zq-vZKm-14" vertex="1">
+          <mxGeometry x="130" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALRop86QPfrC4zq-vZKm-23" value="30~40 anos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ALRop86QPfrC4zq-vZKm-14" vertex="1">
+          <mxGeometry x="39.63" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALRop86QPfrC4zq-vZKm-24" value="Gerente de TI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ALRop86QPfrC4zq-vZKm-14" vertex="1">
+          <mxGeometry x="34.440000000000005" y="30" width="80.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALRop86QPfrC4zq-vZKm-15" value="Palavras/Frases que definem a persona" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="100" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ALRop86QPfrC4zq-vZKm-21" value="&lt;ul style=&quot;line-height: 190%;&quot;&gt;&lt;li&gt;Preocupação no desempenho do serviço&lt;/li&gt;&lt;li&gt;Conectado&lt;/li&gt;&lt;li&gt;Agitado&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ALRop86QPfrC4zq-vZKm-15" vertex="1">
+          <mxGeometry y="20" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ALRop86QPfrC4zq-vZKm-16" value="Dores e necessidades" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="300" width="640" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ALRop86QPfrC4zq-vZKm-22" value="&lt;ul style=&quot;line-height: 190%;&quot;&gt;&lt;li&gt;Não saber as previsões de queda do servidor&amp;nbsp;&lt;/li&gt;&lt;li&gt;Não conseguir reduzir os custos devido a sobrecarga de componentes&amp;nbsp;&lt;/li&gt;&lt;li&gt;Não conseguir gerir&amp;nbsp;períodos de urgência do serviço&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ALRop86QPfrC4zq-vZKm-16" vertex="1">
+          <mxGeometry y="20" width="640" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-1" value="Quem?" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-2" value="Maria Eduarda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AJcCCBSentyKnKTHdcKL-1">
+          <mxGeometry x="155" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-3" value="&quot;Não tenho uma base para analisar os dados em tempo real&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AJcCCBSentyKnKTHdcKL-1">
+          <mxGeometry x="125" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-4" value="20~30 anos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AJcCCBSentyKnKTHdcKL-1">
+          <mxGeometry x="36" y="160" width="69.64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-5" value="Analista de dados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AJcCCBSentyKnKTHdcKL-1">
+          <mxGeometry x="35.07" y="30" width="69.64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-6" value="Palavras/Frases que definem a persona" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="560" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-7" value="&lt;ul style=&quot;line-height: 190%;&quot;&gt;&lt;li&gt;Imediatista&lt;/li&gt;&lt;li&gt;Não lida bem com as pessoas&lt;/li&gt;&lt;li&gt;Organizado&lt;/li&gt;&lt;li&gt;Movido por metas&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AJcCCBSentyKnKTHdcKL-6">
+          <mxGeometry y="20" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-8" value="Dores e necessidades" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="760" width="640" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-9" value="&lt;ul style=&quot;line-height: 260%;&quot;&gt;&lt;li&gt;Não ter a totalidade das soluções de contorno e manutenções preventivas&lt;/li&gt;&lt;li&gt;Falta de um sistema para conseguir visualizar os dados em tempo real&lt;/li&gt;&lt;li&gt;Não ter uma estratégia para prever possíveis falhas no sistema&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AJcCCBSentyKnKTHdcKL-8">
+          <mxGeometry y="20" width="640" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-11" value="&lt;div&gt;PROTO-PERSONA: GERENTE&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJcCCBSentyKnKTHdcKL-12" value="&lt;div&gt;PROTO-PERSONA: ANALISTA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
